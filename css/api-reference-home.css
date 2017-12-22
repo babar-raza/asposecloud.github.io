@@ -423,10 +423,6 @@ ul.update-groupings li.grouping:hover {
 	float:left;
 }
 
-.api-total-ico{
-    background-position: -8px -683px ;
-}
-
 .api-words-ico{
     background-position: -8px -7px ;
 }
@@ -435,11 +431,9 @@ ul.update-groupings li.grouping:hover {
     background-position: -8px -58px ;
 }
 
-
 .api-pdf-ico{
     background-position: -8px -110px ;
 }
-
 
 .api-slides-ico{
     background-position: -8px -162px ;
@@ -449,7 +443,6 @@ ul.update-groupings li.grouping:hover {
     background-position: -8px -214px ;
 }
 
-
 .api-barcode-ico{
     background-position: -8px -266px ;
 }
@@ -458,15 +451,24 @@ ul.update-groupings li.grouping:hover {
     background-position: -8px -318px ;
 }
 
-
 .api-tasks-ico{
     background-position: -8px -370px ;
 }
+
 .api-ocr-ico{
     background-position: -8px -422px ;
 }
+
 .api-omr-ico{
     background-position: -8px -474px ;
+}
+
+.api-html-ico{
+    background-position: -8px -526px ;
+}
+
+.api-total-ico{
+    background-position: -8px -683px ;
 }
 
 .api-product-title h2{
